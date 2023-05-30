@@ -1,0 +1,1 @@
+python -u test_zero_shot.py
